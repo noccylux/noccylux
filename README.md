@@ -9,3 +9,4 @@
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noccylux&layout=compact&theme=synthwave&hide=jupyter%20notebook)](https://github.com/noccylux/github-readme-stats)
+
