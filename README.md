@@ -21,7 +21,6 @@ that turns raw market data into tested, explainable signals, and the systems tha
 - **Deep learning** — experimental network architectures, time-series models, and Kaggle competitions.
 - **LLM tooling** — local inference and agent runtimes.
 
-Most of this work lives in private repositories. I'm happy to walk through it on request.
 
 ### Toolkit
 
